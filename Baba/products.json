@@ -1,1 +1,21 @@
+ "Products": {
+   "ProductTable1": {
+      "test": 0
+    },
 
+    "ProductTable2": {
+      "test": 0
+    },
+
+    "ProductTable3": {
+      "test": 0
+    },
+
+    "ProductTable4": {
+      "test": 0
+    },
+
+    "ProductTable5": {
+      "test": 0
+    }
+  },
