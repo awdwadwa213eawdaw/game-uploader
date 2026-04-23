@@ -1,0 +1,43 @@
+{
+  "TESTCODE999": {
+    "RequiredBadge": 1,
+    "Date": 1893456000,
+    "Limit": 9999,
+    "Message": "Code Successfully Redeemed!",
+    "Rewards": [
+      {
+        "id": "masterball",
+        "quantity": 1
+      },
+      {
+        "id": "ultraball",
+        "quantity": 25
+      }
+    ]
+  },
+  "SORRY4DELAY": {
+    "RequiredBadge": 1,
+    "Date": 1779557556,
+    "Limit": 300,
+    "Message": "Code Successfully Redeemed!",
+    "Rewards": [
+      {
+        "id": "revive",
+        "quantity": 3
+      },
+      {
+        "id": "maxrepel",
+        "quantity": 5
+      }
+    ]
+  },
+  "WEBACK": {
+    "RequiredBadge": 3,
+    "Date": 1779557556,
+    "Limit": 150,
+    "ROPowerGroup": 5,
+    "ROPowerLevel": 1,
+    "Message": "Shiny Ro Power activated for 1 hour!"
+  }
+}
+
