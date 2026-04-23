@@ -35,8 +35,9 @@
     "RequiredBadge": 3,
     "Date": 1779557556,
     "Limit": 150,
-    "AllROPowers": true,
+    "ROPowerGroup": 5,
     "ROPowerLevel": 1,
-    "Message": "All Ro Powers activated for 1 hour!"
+    "Message": "Shiny Ro Power activated for 1 hour!"
   }
+}
 }
