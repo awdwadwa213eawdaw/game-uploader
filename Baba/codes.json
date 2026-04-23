@@ -32,7 +32,7 @@
     ]
   },
   "WEBACK": {
-    "RequiredBadge": 3,
+    "RequiredBadge": 1,
     "Date": 1779557556,
     "Limit": 150,
     "AllROPowers": true,
