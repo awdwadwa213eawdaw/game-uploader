@@ -38,36 +38,5 @@
     "ROPowerGroup": 5,
     "ROPowerLevel": 1,
     "Message": "Shiny Ro Power activated for 1 hour!"
-  },
-    "THANKYOUFORALLTHESUPPORT": {
-    "RequiredBadge": 7,
-    "Date": 1778040000,
-    "Limit": 31,
-    "ROPowerGroup": 3,
-    "ROPowerLevel": 2,
-    "Message": "Code Successfully Redeemed! 2x EXP Ro-Power activated for 1 hour!",
-    "Rewards": [
-      {
-        "id": "maxrevive",
-        "quantity": 1
-      },
-      {
-        "id": "masterball",
-        "quantity": 1
-      }
-    ]
-  },
-  
-  "BOTTLEDUP": {
-    "RequiredBadge": 5,
-    "Date": 1778040000,
-    "Limit": 6,
-    "Message": "Code Successfully Redeemed!",
-    "Rewards": [
-      {
-        "id": "silverbottlecap",
-        "quantity": 1
-      }
-    ]
   }
 }
