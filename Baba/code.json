@@ -85,4 +85,16 @@
     "ROPowerLevel": 1,
     "Message": "Code Successfully Redeemed!",
   },
+  "GODIVING": {
+    "RequiredBadge": 2,
+    "Date": 1778212800,
+    "Limit": 50,
+    "Message": "Code Successfully Redeemed!",
+	"Rewards": [
+      {
+        "id": "umvbattery",
+        "quantity": 2
+      }
+    ]
+  },
 }
