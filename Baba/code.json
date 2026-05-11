@@ -97,4 +97,16 @@
       }
     ]
   },
+  "WHATARARECODE": {
+    "RequiredBadge": 3,
+    "Date": 1778817600,
+    "Limit": 25,
+    "Message": "Code Successfully Redeemed! Gave 3 Rare Candy!",
+	"Rewards": [
+      {
+        "id": "rarecandy",
+        "quantity": 3
+      }
+    ]
+  },
 }
