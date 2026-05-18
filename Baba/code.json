@@ -109,4 +109,36 @@
       }
     ]
   },
+  "OPPOSINGMINTS": {
+    "RequiredBadge": 5,
+    "Date": 1779595200,
+    "Limit": 20,
+    "Message": "Code Successfully Redeemed! Gave 1 Adamant Mint and 1 Modest Mint",
+	"Rewards": [
+      {
+        "id": "adamantmint",
+        "quantity": 1
+      },
+	  {
+        "id": "modestmint",
+        "quantity": 1
+      }
+    ]
+  },
+  "ATTACKNDEFENSE": {
+    "RequiredBadge": 3,
+    "Date": 1779595200,
+    "Limit": 50,
+    "Message": "Code Successfully Redeemed! Gave 1 Attack EV Reset, gave 1 Defense EV Reset",
+	"Rewards": [
+      {
+        "id": "attackreset",
+        "quantity": 1
+      },
+	  {
+        "id": "defensereset",
+        "quantity": 1
+      }
+    ]
+  }
 }
