@@ -140,5 +140,17 @@
         "quantity": 1
       }
     ]
+  },
+  "PATCH1": {
+    "RequiredBadge": 7,
+    "Date": 1779940800,
+    "Limit": 20,
+    "Message": "Code Successfully Redeemed! Gave 1 Ability Patch",
+	"Rewards": [
+      {
+        "id": "abilitypatch",
+        "quantity": 1
+      }
+    ]
   }
 }
