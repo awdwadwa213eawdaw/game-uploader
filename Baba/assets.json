@@ -1,145 +1,267 @@
 {
   "RTD": {
-    "Main": 97016254436300,
-    "Battle": 92571658223622,
-    "Trade": 116651796255222
+    "Main": 108483474016471,
+    "Battle": 83825694335867,
+    "Trade": 87958019368961
   },
   "Animations": {
-    "IntroSleep": "110884072333477",
-    "NPCSwim": "133359972816060",
-    "NPCIdle": "137305203241078",
-    "IntroSit": "121224246263441",
-    "NPCIdleSwim": "70558034618171",
-    "NPCDance1": "85907874592764",
-    "NPCWave": "135685823998414",
-    "NPCDance2": "126064268044796",
-    "NPCWalk": "71292590637400",
-    "NPCDance3": "71037406793048",
-    "NurseBow": "104138156543278",
-    "NPCPoint": "87558000047245",
-    "NPCBreakDance": "89943773904645",
-    "Run": "97628677301211",
-    "RodIdle": "94355388357871",
-    "RodCast": "95209639381718",
-    "RodReel": "125164133706349",
-    "FlipSign": "75080860683192",
-    "ThrowBall": "116850966279324",
-    "EatSushi": "128263841241236",
-    "Sit": "120428974543127",
-    "Surf": "115072141561596",
-    "Carry": "97745572521570",
-    "ZPower": "119303286207647",
-    "absolIdle": "90100238915834",
-    "absolRun": "105954249204415",
-    "absolSniff": "106850888840898",
-    "palkiaIdle": "125760438336240",
-    "palkiaHover": "79894726226677",
-    "palkiaRoarAir": "88786862865846",
-    "palkiaRoarGround": "98171216204371",
-    "dialgaIdle": "79314061428903",
-    "dialgaHover": "70935990562003",
-    "dialgaRoarAir": "117437760867651",
-    "dialgaRoarGround": "104045321542638",
-    "heatranIdle": "73776848253180",
-    "heatranRoar": "71711753045814",
-    "raikouRun": "114632779937359",
-    "enteiRun": "104686616960017",
-    "suicuneRun": "94171725781795",
-    "LaprasIdle": "105429480784163",
-    "MoltresIdle": "124496904547418",
-    "ZapdosIdle": "122447018542718",
-    "CobalionIdle": "82769916284840",
-    "ArticunoIdle": "110388077327892",
-    "TerrakionIdle": "132838581044198",
-    "VirizionIdle": "139829663837580",
-    "KeldeoIdle": "83080997550892",
-    "hoopaAttack": "93343122158588",
-    "hoopaIdle": "119114773282501",
-    "hoopaIdle2": "87365717823016",
-    "hoopaIdleSlow": "119212712683897",
-    "HoOhAttack": "127295122265408",
-    "cmJump": "97878338274685",
-    "cmHats": "130929621671100",
-    "profChange": "120693095621608",
+    "IntroSleep": "80938459348146",
+    "NPCSwim": "101089185127156",
+    "NPCIdleSwim": "105136226575389",
+    "NPCIdle": "95948750594560",
+    "IntroSit": "82529297199961",
+    "NPCWalk": "82722861358156",
+    "NPCWave": "79101340685539",
+    "NPCDance2": "114979051879573",
+    "NPCDance1": "96015240006704",
+    "NPCDance3": "114421070430254",
+    "NPCBreakDance": "108994694954577",
+    "NPCPoint": "77051029121866",
+    "NurseBow": "121357707936993",
+    "Run": "77668889807932",
+    "RodIdle": "116891801397345",
+    "RodCast": "93192949554186",
+    "RodReel": "95625313164393",
+    "ThrowBall": "73079320950959",
+    "FlipSign": "80400785637398",
+    "EatSushi": "105945280526212",
+    "Sit": "139022892669170",
+    "Carry": "107916934629928",
+    "Surf": "97827585464591",
+    "ZPower": "110282002815297",
+    "absolIdle": "87068821162851",
+    "absolRun": "73645178220258",
+    "absolSniff": "112847642965393",
+    "palkiaIdle": "86204150007803",
+    "palkiaHover": "88332880290339",
+    "palkiaRoarAir": "107441624002751",
+    "palkiaRoarGround": "123418410293578",
+    "dialgaIdle": "73439965332768",
+    "dialgaHover": "126223234433816",
+    "dialgaRoarAir": "72167731144163",
+    "dialgaRoarGround": "138548175442148",
+    "heatranIdle": "97755360913060",
+    "heatranRoar": "85922056425033",
+    "raikouRun": "133718757450246",
+    "enteiRun": "122874360001595",
+    "suicuneRun": "76646485402692",
+    "LaprasIdle": "84807884182070",
+    "ArticunoIdle": "137142242266748",
+    "ZapdosIdle": "119964374334215",
+    "MoltresIdle": "133741740520922",
+    "CobalionIdle": "87403058516423",
+    "TerrakionIdle": "82733514314452",
+    "VirizionIdle": "107117179011593",
+    "KeldeoIdle": "92717984075509",
+    "hoopaAttack": "107597569709006",
+    "hoopaIdle": "119866994687293",
+    "hoopaIdle2": "133298233437474",
+    "hoopaIdleSlow": "111926029668362",
+    "HoOhAttack": "140023739151306",
+    "cmJump": "123948099023925",
+    "cmHats": "88955226449093",
+    "profChange": "136259237109052",
     "JakeDive": 0,
     "TessFall": 0,
-    "profTurn": "102340731123478",
-    "jhatIdle": "123498634146429",
-    "jhatAction": "138439051264869",
-    "jakeLift": "119390145550975",
+    "profTurn": "90440387757490",
+    "jhatIdle": "76156139486986",
+    "jhatAction": "127157730776637",
+    "jakeLift": "87875854353664",
     "JakePortal": 0,
-    "jakeHold": "135632441655319",
-    "jakeThrow": "108454071485602",
-    "cypressWeee": "89827845443659",
-    "h_idle": "104185579518817",
-    "h_mount": "82059804172168",
-    "h_forward": "123703252064904",
-    "h_backward": "78586328942933",
-    "h_left": "105270533235474",
-    "h_right": "85678605796905",
-    "h_trick2": "77396736725379",
-    "h_trick3": "133466872521042",
-    "h_trick1": "129573338642181",
-    "R15_IntroSleep": "100113341353787",
-    "R15_IntroWake": "100991378424779",
-    "R15_IntroTossClock": "131241301201001",
-    "R15_Idle": "114350903604855",
-    "R15_Run": "89750439163381",
-    "R15_ThrowBall": "84157249593154",
-    "R15_Sit": "95508902072157",
-    "R15_Sushi": "127205256051976",
-    "R15_Carry": "85233806369603",
-    "R15_RodIdle": "81572389296032",
-    "R15_RodCast": "100859411356585",
-    "R15_RodReel": "98410688903844",
-    "R15_h_idle": "126154128335693",
-    "R15_h_mount": "131663437643047",
-    "R15_h_forward": "140042426937243",
-    "R15_h_backward": "125780762714810",
-    "R15_h_left": "106428926936084",
-    "R15_h_trick1": "130175709968893",
-    "R15_h_right": "114378841175625",
-    "R15_h_trick2": "128493531786594",
-    "R15_h_trick3": "87777963793455",
-    "R15_Surf": "92188186039448",
-    "R15_ZPower": "96163054097637"
+    "jakeHold": "135693879284934",
+    "jakeThrow": "123861960333000",
+    "cypressWeee": "71613044534626",
+    "h_idle": "126384551116469",
+    "h_mount": "134633688941058",
+    "h_forward": "110551359457865",
+    "h_backward": "74653921452050",
+    "h_left": "74619869936188",
+    "h_right": "97165808575988",
+    "h_trick1": "111585418169898",
+    "h_trick2": "129040981951626",
+    "h_trick3": "91470463508746",
+    "R15_IntroSleep": "124702710424811",
+    "R15_IntroWake": "125322058794221",
+    "R15_IntroTossClock": "70622437172248",
+    "R15_Idle": "110790274069547",
+    "R15_Run": "114557205971896",
+    "R15_ThrowBall": "73640110976653",
+    "R15_Sit": "137030264453301",
+    "R15_Sushi": "95640344251169",
+    "R15_Carry": "99489508394882",
+    "R15_RodIdle": "126270426781786",
+    "R15_RodCast": "107418563287278",
+    "R15_RodReel": "140554324148328",
+    "R15_h_idle": "126339148573724",
+    "R15_h_mount": "78610335889638",
+    "R15_h_forward": "113314758449038",
+    "R15_h_backward": "133247641353542",
+    "R15_h_left": "128121410014971",
+    "R15_h_right": "91556210194655",
+    "R15_h_trick1": "134352204684016",
+    "R15_h_trick2": "90044723321000",
+    "R15_h_trick3": "84024687202504",
+    "R15_Surf": "94252867196541",
+    "R15_ZPower": "88358189934478"
   },
   "Products": {
-    "Starter": 1931086481,
-    "TenBP": 1931086488,
-    "FiftyBP": 1931086496,
-    "TwoHundredBP": 1931086504,
-    "TwoThousandBP": 1931086509,
-    "UMV1": 1931086518,
-    "UMV3": 1931086525,
-    "UMV6": 1931086532,
-    "_10kP": 1931086542,
-    "_50kP": 1931086548,
-    "_100kP": 1931086552,
-    "_200kP": 1931086558,
-    "PBSpins1": 1931086565,
-    "PBSpins5": 1931086569,
-    "PBSpins10": 1931086576,
-    "AshGreninja": 1931086582,
-    "Hoverboard": 1931086591,
-    "MasterBall": 1931086596,
-    "LottoTicket": 1931086602,
-    "TixPurchase": 1931086605,
-    "RouletteSpinBasic": 1931086608,
-    "RouletteSpinBronze": 1931086612,
-    "RouletteSpinSilver": 1931086620,
-    "RouletteSpinGold": 1931086627,
-    "RouletteSpinDiamond": 1931086634,
-    "EXP1": 1931086641,
-    "EXP2": 1931086649,
-    "Hatching1": 1931086664,
-    "Hatching2": 1931086670,
-    "pokedollars1": 1931086674,
-    "pokedollars2": 1931086680,
-    "EV1": 1931086686,
-    "EV2": 1931086690,
-    "ShinyBoosts": 1931086695,
-    "Legendaries": 1931086701
+    "devProducts": [
+      {
+        "name": "Starter",
+        "price": 34
+      },
+      {
+        "name": "TenBP",
+        "price": 19
+      },
+      {
+        "name": "FiftyBP",
+        "price": 49
+      },
+      {
+        "name": "TwoHundredBP",
+        "price": 149
+      },
+      {
+        "name": "FiveHundredBP",
+        "price": 319
+      },
+      {
+        "name": "UMV1",
+        "price": 9
+      },
+      {
+        "name": "UMV3",
+        "price": 24
+      },
+      {
+        "name": "UMV6",
+        "price": 39
+      },
+      {
+        "name": "_10kP",
+        "price": 39
+      },
+      {
+        "name": "_50kP",
+        "price": 169
+      },
+      {
+        "name": "_100kP",
+        "price": 274
+      },
+      {
+        "name": "_200kP",
+        "price": 449
+      },
+      {
+        "name": "PBSpins1",
+        "price": 4
+      },
+      {
+        "name": "PBSpins5",
+        "price": 19
+      },
+      {
+        "name": "PBSpins10",
+        "price": 29
+      },
+      {
+        "name": "AshGreninja",
+        "price": 399
+      },
+      {
+        "name": "Hoverboard",
+        "price": 14
+      },
+      {
+        "name": "MasterBall",
+        "price": 29
+      },
+      {
+        "name": "LottoTicket",
+        "price": 29
+      },
+      {
+        "name": "TixPurchase",
+        "price": 174
+      },
+      {
+        "name": "RouletteSpinBasic",
+        "price": 14
+      },
+      {
+        "name": "RouletteSpinBronze",
+        "price": 29
+      },
+      {
+        "name": "RouletteSpinSilver",
+        "price": 69
+      },
+      {
+        "name": "RouletteSpinGold",
+        "price": 129
+      },
+      {
+        "name": "RouletteSpinDiamond",
+        "price": 199
+      }
+    ],
+    "roPowerGroups": [
+      [
+        {
+          "name": "EXP1",
+          "price": 29
+        },
+        {
+          "name": "EXP2",
+          "price": 59
+        }
+      ],
+      [
+        {
+          "name": "Hatching1",
+          "price": 14
+        },
+        {
+          "name": "Hatching2",
+          "price": 24
+        }
+      ],
+      [
+        {
+          "name": "pokedollars1",
+          "price": 29
+        },
+        {
+          "name": "pokedollars2",
+          "price": 44
+        }
+      ],
+      [
+        {
+          "name": "EV1",
+          "price": 39
+        },
+        {
+          "name": "EV2",
+          "price": 69
+        }
+      ],
+      [
+        {
+          "name": "ShinyBoosts",
+          "price": 79
+        }
+      ],
+      [],
+      [
+        {
+          "name": "Legendaries",
+          "price": 99
+        }
+      ]
+    ]
   },
-  "savedAt": "2026-06-16T18:12:19.755Z"
+  "savedAt": "2026-06-16T18:19:27.387Z"
 }
